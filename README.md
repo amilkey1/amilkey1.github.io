@@ -7,4 +7,4 @@ I am a PhD student in the [UConn EEB department](https://eeb.uconn.edu/) interes
 
 [Contact Info](contact-info.html)
 
-[Publications](obab014.pdf)
+[Publications](publications.html)
