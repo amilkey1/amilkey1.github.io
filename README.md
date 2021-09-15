@@ -6,3 +6,5 @@ I am a PhD student in the [UConn EEB department](https://eeb.uconn.edu/) interes
 [My CV](PDFs/cv.pdf)
 
 [Contact Info](contact-info.html)
+
+[Publications](obab014.pdf)
