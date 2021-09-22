@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Cookie
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -50,3 +51,6 @@ exclude:
   - tailwind.config.js
   - .gitignore
   - vendor
+=======
+theme: jekyll-theme-architect
+>>>>>>> parent of ea8ac84 (Set theme jekyll-theme-minimal)
