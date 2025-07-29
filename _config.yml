@@ -5,8 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 header_pages:
-   - about.md
    - publications.md
+   - software.md
    - contact-info.md
    - outreach.md
 
