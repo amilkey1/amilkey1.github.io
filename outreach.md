@@ -4,7 +4,7 @@ title: Outreach
 permalink: /outreach/
 ---
 
-{% include figure.html description="Pasta phylogeny activity." url="https://amilkey1.github.io/images/pasta-phylogeny.jpg" css="image-right noborder" width="200px" %}
+<!-- {% include figure.html description="Pasta phylogeny activity." url="https://amilkey1.github.io/images/pasta-phylogeny.jpg" css="image-right noborder" width="200px" %} -->
 
 # Community outreach
 
