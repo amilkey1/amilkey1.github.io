@@ -4,7 +4,7 @@ title: Outreach
 permalink: /outreach/
 ---
 
-![image of pasta phylogeny activity](images/pasta-phylogeny.jpg "pasta phylogeny")
+![image of pasta phylogeny activity](https://amilkey1.github.io/images/pasta-phylogeny.jpg "pasta phylogeny")
 
 # Community outreach
 
