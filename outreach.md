@@ -4,7 +4,7 @@ title: Outreach
 permalink: /outreach/
 ---
 
-![image of pasta phylogeny activity](https://amilkey1.github.io/images/pasta-phylogeny.jpg "pasta phylogeny")
+{% include figure.html description="Pasta phylogeny activity." url="https://amilkey1.github.io/images/pasta-phylogeny.jpg" css="image-right noborder" width="200px" targeturl="https://en.wikipedia.org/wiki/Adiantum" %}
 
 # Community outreach
 
