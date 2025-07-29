@@ -5,7 +5,7 @@ layout: default
 
 Feel free to contact me at <analisa.milkey@uconn.edu>
 
-[Blue sky profile] (https://bsky.app/profile/analisamilkey.bsky.social)
+[Blue sky profile](https://bsky.app/profile/analisamilkey.bsky.social)
 
 Postal address:
 
