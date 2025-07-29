@@ -3,10 +3,10 @@ title: Contact Info
 layout: default
 ---
 
-Feel free to contact me at <analisa.milkey@uconn.edu>\
+Feel free to contact me at <analisa.milkey@uconn.edu>
 
-[github](github.com/amilkey1)\
-[Blue sky profile](https://bsky.app/profile/analisamilkey.bsky.social)
+[my github profile](github.com/amilkey1)\
+[my blue sky profile](https://bsky.app/profile/analisamilkey.bsky.social)
 
 Postal address:
 
