@@ -4,6 +4,8 @@ title: Outreach
 permalink: /outreach/
 ---
 
+![image of pasta phylogeny activity](images/pasta-phylogeny.jpg "pasta phylogeny")
+
 # Community outreach
 
 Here are links to lessons I have designed for students in the local community. Lessons are designed to introduce children to concepts in phylogenetics and systematics.
