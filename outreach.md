@@ -17,6 +17,8 @@ Each zip folder also contains a "README" document with instructions for carrying
 [seabird evolution](https://amilkey1.github.io/zip_files/seabird_evolution_workshop.zip)\
 [shell identification](https://amilkey1.github.io/zip_files/shell_ID.zip)
 
+![pasta-phylogeny](https://github.com/user-attachments/assets/174c5dd1-9615-410f-a6bd-17718fa19d2f)
+
 # Departmental efforts
 
 
