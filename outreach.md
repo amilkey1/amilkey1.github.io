@@ -6,6 +6,8 @@ permalink: /outreach/
 
 # Community outreach
 
+![image of outreach activity](images/natchaug-photo.png "description")
+
 Here are links to lessons I have designed for students in the local community. Lessons are designed to introduce children to concepts in phylogenetics and systematics.
 Each link contains a zip file with worksheets printed out for students and/or powerpoint presentations given.
 Each zip folder also contains a "README" document with instructions for carrying out the lesson.
