@@ -2,9 +2,9 @@
 title: Publications
 layout: default
 ---
-Milkey A, J Chen J, and PO Lewis. 2026. [How much information is there for inferring species trees?](PDFs/species_tree_info.pdf) bioRxiv 2026.04.01.715836
+Milkey A, J Chen J, and PO Lewis. 2026. [How much information is there for inferring species trees?](PDFs/PhyloInfo2.pdf) bioRxiv 2026.04.01.715836
 
-Milkey A and PO Lewis. 2026. [Estimating Bayesian phylogenetic information content using geodesic distances.](PDFs/geodesic_info.pdf) bioRxiv 2026.03.31.715656
+Milkey A and PO Lewis. 2026. [Estimating Bayesian phylogenetic information content using geodesic distances.](PDFs/GeodesicInfo.pdf) bioRxiv 2026.03.31.715656
 
 Li A, PY Liu, YB Wang, A Milkey, PO Lewis, & MH Chen. (2026). [A Comparison of Monte Carlo Based Marginal Likelihood Estimators.](PDFs/marginal_likelihood.pdf) _Wiley Interdisciplinary Reviews: Computational Statistics 18_(1), e70058.
 
