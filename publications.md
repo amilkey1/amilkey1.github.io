@@ -2,7 +2,7 @@
 title: Publications
 layout: default
 ---
-Milkey A, J Chen J, and PO Lewis. 2026. [How much information is there for inferring species trees?](PDFs/PhyloInfo2.pdf) bioRxiv 2026.04.01.715836
+Milkey A, J Chen, and PO Lewis. 2026. [How much information is there for inferring species trees?](PDFs/PhyloInfo2.pdf) bioRxiv 2026.04.01.715836
 
 Milkey A and PO Lewis. 2026. [Estimating Bayesian phylogenetic information content using geodesic distances.](PDFs/GeodesicInfo.pdf) bioRxiv 2026.03.31.715656
 
