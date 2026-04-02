@@ -5,7 +5,7 @@ layout: default
 
 Li A, PY Liu, YB Wang, A Milkey, PO Lewis, & MH Chen. (2026). [A Comparison of Monte Carlo Based Marginal Likelihood Estimators.](PDFs/marginal_likelihood.pdf) _Wiley Interdisciplinary Reviews: Computational Statistics 18_(1), e70058.
 
-Milkey A, MH Chen, YB Wang, A Li, & PO Lewis. (2025). [The Sequential Multispecies Coalescent.](PDFs/smcmsc.pdf) bioRxiv, 2025-01.
+Milkey A, MH Chen, YB Wang, A Li, & PO Lewis. (2025). [The Sequential Multispecies Coalescent.](PDFs/smcmsc.pdf) bioRxiv 2025.01.31.635964. (In revision, _Systematic Biology_.)
 
 Wang YB, A Milkey, A Li, MH Chen, L Kuo, & PO Lewis. (2023). [LoRaD: Marginal likelihood estimation with haste (but no waste).](PDFs/lorad.pdf) _Systematic Biology, 72_(3), 639-648.
 
