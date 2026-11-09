@@ -3,7 +3,7 @@ title: Contact Info
 layout: default
 ---
 
-Feel free to contact me at <analisa.milkey@uconn.edu>
+Feel free to contact me at <analisa.milkey@ucsf.edu>
 
 [my github profile](https://github.com/amilkey1)\
 [my blue sky profile](https://bsky.app/profile/analisamilkey.bsky.social)
@@ -11,7 +11,7 @@ Feel free to contact me at <analisa.milkey@uconn.edu>
 Postal address:
 
 Analisa Milkey\
-Department of Ecology and Evolutionary Biology\
-University of Connecticut\
-Storrs, CT 06269-3043\
+Division of HIV, Infectious Diseases, and Global Medicine\
+University of California, San Francisco\
+San Francisco, CA 94158\
 U.S.A.
